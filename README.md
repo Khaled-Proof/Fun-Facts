@@ -1,6 +1,6 @@
 # Fun-Facts
 React/NodeJs -Application
 How To Install 
-#npm install
-#npm start
+# npm install
+# npm start
 
